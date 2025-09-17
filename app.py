@@ -100,7 +100,7 @@ else:
                         fill_color="#02567a",
                         align="left"),
             cells=dict(values=[list(metrics.keys()), list(metrics.values())],
-                       fill_color="#292b2b",
+                       fill_color="ffffff",
                        align="left"))
         ])
 
